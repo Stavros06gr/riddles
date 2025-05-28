@@ -1,0 +1,127 @@
+[
+    {
+        "riddle": "I speak without a mouth and hear without ears. I have nobody, but I come alive with wind.",
+        "answer": "echo",
+        "riddle_gr": "Μιλάω χωρίς στόμα και ακούω χωρίς αυτιά. Δεν έχω σώμα, αλλά ζω με τον άνεμο.",
+        "answer_gr": "ηχώ"
+    },
+    {
+        "riddle": "What can travel around the world while staying in the same place?",
+        "answer": "a stamp",
+        "riddle_gr": "Τι μπορεί να ταξιδέψει γύρω από τον κόσμο μένοντας στην ίδια θέση;",
+        "answer_gr": "ένα γραμματόσημο"
+    },
+    {
+        "riddle": "I’m tall when I’m young, and I’m short when I’m old. What am I?",
+        "answer": "a candle",
+        "riddle_gr": "Είμαι ψηλό όταν είμαι νέος, και κοντό όταν γερνάω. Τι είμαι;",
+        "answer_gr": "ένα κερί"
+    },
+    {
+        "riddle": "I’m light as a feather, yet the strongest man can’t hold me for much longer than a minute. What am I?",
+        "answer": "breath",
+        "riddle_gr": "Είμαι ελαφρύς σαν φτερό, αλλά ούτε ο πιο δυνατός άντρας δεν μπορεί να με κρατήσει περισσότερο από ένα λεπτό. Τι είμαι;",
+        "answer_gr": "αναπνοή"
+    },
+    {
+        "riddle": "What begins with an E but only contains one letter?",
+        "answer": "an envelope",
+        "riddle_gr": "Τι αρχίζει με Φ αλλά περιέχει μόνο ένα γράμμα;",
+        "answer_gr": "φάκελος"
+    },
+    {
+        "riddle": "What has four fingers and a thumb, but is not a hand?",
+        "answer": "a glove",
+        "riddle_gr": "Τι έχει τέσσερα δάχτυλα και έναν αντίχειρα αλλά δεν είναι χέρι;",
+        "answer_gr": "ένα γάντι"
+    },
+    {
+        "riddle": "What can fill a room but takes up no space?",
+        "answer": "light",
+        "riddle_gr": "Τι μπορεί να γεμίσει ένα δωμάτιο αλλά δεν καταλαμβάνει χώρο;",
+        "answer_gr": "φως"
+    },
+    {
+        "riddle": "What has legs but doesn’t walk?",
+        "answer": "a table",
+        "riddle_gr": "Τι έχει πόδια αλλά δεν περπατάει;",
+        "answer_gr": "ένα τραπέζι"
+    },
+    {
+        "riddle": "What comes down but never goes up?",
+        "answer": "rain",
+        "riddle_gr": "Τι κατεβαίνει αλλά δεν ανεβαίνει ποτέ;",
+        "answer_gr": "βροχή"
+    },
+    {
+        "riddle": "What is always in front of you but can’t be seen?",
+        "answer": "the future",
+        "riddle_gr": "Τι είναι πάντα μπροστά σου αλλά δεν μπορείς να το δεις;",
+        "answer_gr": "το μέλλον"
+    },
+    {
+        "riddle": "What can you break, even if you never pick it up or touch it?",
+        "answer": "a promise",
+        "riddle_gr": "Τι μπορείς να σπάσεις, ακόμα κι αν δεν το πιάσεις ή δεν το αγγίξεις ποτέ;",
+        "answer_gr": "μια υπόσχεση"
+    },
+    {
+        "riddle": "What is so fragile that saying its name breaks it?",
+        "answer": "silence",
+        "riddle_gr": "Τι είναι τόσο εύθραυστο που αν πεις το όνομά του, σπάει;",
+        "answer_gr": "η σιωπή"
+    },
+    {
+        "riddle": "What has no life but can die?",
+        "answer": "a battery",
+        "riddle_gr": "Τι δεν έχει ζωή αλλά μπορεί να πεθάνει;",
+        "answer_gr": "μια μπαταρία"
+    },
+    {
+        "riddle": "What begins with P, ends with E, and has thousands of letters?",
+        "answer": "a post office",
+        "riddle_gr": "Τι αρχίζει με Τ, τελειώνει με Ο και έχει χιλιάδες γράμματα;",
+        "answer_gr": "ταχυδρομείο"
+    },
+    {
+        "riddle": "What goes up but never comes down?",
+        "answer": "your age",
+        "riddle_gr": "Τι ανεβαίνει αλλά ποτέ δεν κατεβαίνει;",
+        "answer_gr": "η ηλικία σου"
+    },
+    {
+        "riddle": "I shave every day, but my beard stays the same. Who am I?",
+        "answer": "a barber",
+        "riddle_gr": "Ξυρίζω κάθε μέρα, αλλά το μούσι μου μένει το ίδιο. Ποιος είμαι;",
+        "answer_gr": "ένας κουρέας"
+    },
+    {
+        "riddle": "What invention lets you look right through a wall?",
+        "answer": "a window",
+        "riddle_gr": "Ποια εφεύρεση σου επιτρέπει να κοιτάς μέσα από έναν τοίχο;",
+        "answer_gr": "ένα παράθυρο"
+    },
+    {
+        "riddle": "What can you hold in your left hand but not in your right?",
+        "answer": "your right hand",
+        "riddle_gr": "Τι μπορείς να κρατήσεις στο αριστερό σου χέρι αλλά όχι στο δεξί;",
+        "answer_gr": "το δεξί σου χέρι"
+    },
+    {
+        "riddle": "I have no eyes, no legs, and no ears, but I help move the earth. What am I?",
+        "answer": "a worm",
+        "riddle_gr": "Δεν έχω μάτια, πόδια ή αυτιά, αλλά βοηθώ να κινείται η γη. Τι είμαι;",
+        "answer_gr": "ένα σκουλήκι"
+    },
+    {
+        "riddle": "What flies without wings and cries without eyes?",
+        "answer": "a cloud",
+        "riddle_gr": "Τι πετάει χωρίς φτερά και κλαίει χωρίς μάτια;",
+        "answer_gr": "ένα σύννεφο"
+    }
+
+
+
+
+]
+  
