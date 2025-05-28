@@ -118,6 +118,42 @@
         "answer": "a cloud",
         "riddle_gr": "Τι πετάει χωρίς φτερά και κλαίει χωρίς μάτια;",
         "answer_gr": "ένα σύννεφο"
+    },
+    {
+        "riddle": "What belongs to you but others use it more than you do?",
+        "answer": "your name",
+        "riddle_gr": "Τι σου ανήκει αλλά το χρησιμοποιούν οι άλλοι περισσότερο από εσένα;",
+        "answer_gr": "το όνομά σου"
+    },
+    {
+        "riddle": "What gets sharper the more you use it?",
+        "answer": "your brain",
+        "riddle_gr": "Τι γίνεται πιο κοφτερό όσο το χρησιμοποιείς;",
+        "answer_gr": "ο εγκέφαλός σου"
+    },
+    {
+        "riddle": "What is full of holes but still holds water?",
+        "answer": "a sponge",
+        "riddle_gr": "Τι είναι γεμάτο τρύπες αλλά κρατάει νερό;",
+        "answer_gr": "ένα σφουγγάρι"
+    },
+    {
+        "riddle": "You can hold me in your hand, but I can fill a whole room. What am I?",
+        "answer": "a lightbulb",
+        "riddle_gr": "Μπορείς να με κρατήσεις στο χέρι σου, αλλά μπορώ να γεμίσω ολόκληρο το δωμάτιο. Τι είμαι;",
+        "answer_gr": "μια λάμπα"
+    },
+    {
+        "riddle": "I go through cities and fields but never move. What am I?",
+        "answer": "a road",
+        "riddle_gr": "Περνάω από πόλεις και χωράφια αλλά ποτέ δεν κινούμαι. Τι είμαι;",
+        "answer_gr": "ένας δρόμος"
+    },
+    {
+        "riddle": "What goes through water but doesn’t get wet?",
+        "answer": "light",
+        "riddle_gr": "Τι περνάει μέσα από το νερό αλλά δεν βρέχεται;",
+        "answer_gr": "το φως"
     }
 
 
